@@ -1,4 +1,15 @@
 pip
-tensorflow==1.15
+
+jupyter
+jupyterlab
+## https://github.com/matplotlib/jupyter-matplotlib
+#jupyter labextension install @jupyter-widgets/jupyterlab-manager
+#jupyter labextension install jupyter-matplotlib
+
+ipykernel
+ipympl
+
+tensorflow
+tensorflow-datasets
 contextlib2
 Pillow
