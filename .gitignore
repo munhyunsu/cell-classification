@@ -1,6 +1,7 @@
 # data and models
 data/
 models/
+saved_models/
 checkpoint/
 
 # Byte-compiled / optimized / DLL files
