@@ -12,3 +12,4 @@ Cell classification using transfer learning of Tensorflow
 ## TODO
   - GUI using Tkinter?
 
+  - Classification result copier
