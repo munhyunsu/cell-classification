@@ -1,18 +1,4 @@
 pip
-
-jupyter
-jupyterlab
-## https://github.com/matplotlib/jupyter-matplotlib
-#jupyter labextension install @jupyter-widgets/jupyterlab-manager
-#jupyter labextension install jupyter-matplotlib
-
-numpy
-pandas
-
-ipykernel
 ipympl
-
 tensorflow
-tensorflow-datasets
-contextlib2
-Pillow
+pandas

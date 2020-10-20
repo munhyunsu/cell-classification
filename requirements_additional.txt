@@ -1,0 +1,6 @@
+Pillow
+labelme # labeling
+scikit-learn # preprocessing image
+scikit-image # edge detection
+pydot # plot model
+graphviz
