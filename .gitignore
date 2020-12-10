@@ -1,4 +1,10 @@
+# venv
+venv/
+
 # data and models
+Dataset/
+Model/
+Result/
 data/
 models/
 saved_models/
