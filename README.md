@@ -29,5 +29,5 @@ git clone LABELME_GITHUB.git
 #### Make VOC dataset
 
 ```
-labelme2voc.py INPUT OUTPUT --labels labels.txt
+python3 ./examples/semantic_segmentation/labelme2voc.py INPUT OUTPUT --labels labels.txt
 ```
