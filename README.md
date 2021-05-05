@@ -18,6 +18,16 @@ pip3 install -r requirements.txt
 ## Cell image segmentation
 
 ### Create Visual Object Classes(VOC) Datasets
+
+#### Requirements
+- labelme
+
+```
+git clone LABELME_GITHUB.git
+```
+
+#### Make VOC dataset
+
 ```
 labelme2voc.py INPUT OUTPUT --labels labels.txt
 ```
