@@ -11,9 +11,9 @@ Cell classification using transfer learning of Tensorflow
 pip3 install -r requirements.txt
 ```
 
-
 ## TODO
-- Object segmentation: (Ref: )
+- P1. Cell classification Notebook for Google Codelab
+- P2. Cell segmentation Notebook for Google Codelab
 
 ## Cell image segmentation
 
