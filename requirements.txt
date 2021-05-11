@@ -1,5 +1,8 @@
 pip
 wheel
+ipykernel
 ipympl
+tensorflow-io
 tensorflow
+numpy
 pandas
