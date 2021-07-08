@@ -31,3 +31,7 @@ git clone LABELME_GITHUB.git
 ```
 python3 ./examples/semantic_segmentation/labelme2voc.py INPUT OUTPUT --labels labels.txt
 ```
+
+# Coded by
+- LuHa (munhyunsu@gmail.com)
+
