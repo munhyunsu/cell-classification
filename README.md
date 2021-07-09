@@ -11,9 +11,13 @@ Cell classification using transfer learning of Tensorflow
 pip3 install -r requirements.txt
 ```
 
-## TODO
-- P1. Cell classification Notebook for Google Codelab
-- P2. Cell segmentation Notebook for Google Codelab
+## Lecture order
+
+0. (Not prepared) LabelMe preprocessing on Windows
+
+1. Cell classification Notebook for Google Codelab
+
+2. Cell segmentation Notebook for Google Codelab
 
 ## Cell image segmentation
 
